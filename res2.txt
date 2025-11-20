@@ -1,0 +1,50 @@
+*** WELCOME TO BANKING SYSTEM ***
+
+1. Register
+2. Login
+3. Exit
+Enter your choice: 
+2
+Email: karthik@gmail.com
+Password: 1234567890
+
+User Logged In!
+
+1. Open a new Bank Account
+2. Exit
+1
+Enter Full Name: Karthik Joshi
+Enter Initial Amount: 15000
+Enter Security Pin: 1234
+Account Created Successfully
+Your Account Number is: 10000101
+
+1. Debit Money
+2. Credit Money
+3. Transfer Money
+4. Check Balance
+5. Log Out
+Enter your choice: 
+3
+Enter Receiver Account Number: 10000100
+Enter Amount: 2000
+Enter Security Pin: 1234
+Transaction Successful!
+Rs.2000.0 Transferred Successfully
+
+1. Debit Money
+2. Credit Money
+3. Transfer Money
+4. Check Balance
+5. Log Out
+Enter your choice: 
+4
+Enter Security Pin: 1234
+Balance: 13000.0
+
+1. Debit Money
+2. Credit Money
+3. Transfer Money
+4. Check Balance
+5. Log Out
+Enter your choice: 
